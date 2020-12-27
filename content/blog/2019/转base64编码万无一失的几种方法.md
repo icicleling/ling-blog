@@ -1,9 +1,7 @@
 ---
 title: 转base64编码万无一失的几种方法
 date: 2019-09-01 13:54:36
-tags: 
-    - nodejs
-    - base64
+tags: ['nodejs', 'base64']
 ---
 
 base64是挺常用的一种编码格式, 本来貌似是邮件用的编码格式.

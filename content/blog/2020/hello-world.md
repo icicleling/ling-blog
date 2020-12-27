@@ -1,8 +1,7 @@
 ---
 title: Hello World
 date: 2020-02-19 17:32:44
-tags: 
-    - 日常
+tags: ['blog']
 ---
 
 简而言之, 我一不小心把blog shift+del了, 幸亏我眼疾手快, 在电脑删完之前点了取消  

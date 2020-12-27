@@ -1,8 +1,7 @@
 ---
 title: 把多个前端项目部署到GitHub pages中
 date: 2018-07-30 20:39:36
-tags:
-    - github
+tags: ['github']
 ---
 
 ## 创建Github pages页面

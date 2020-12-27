@@ -1,8 +1,7 @@
 ---
 title: 使用ssh连接github
 date: 2018-08-22 22:52:40
-tags:
-    - github
+tags: ['github']
 ---
 
 ## 生成ssh公钥和私钥
